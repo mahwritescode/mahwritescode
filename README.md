@@ -14,13 +14,13 @@
 
 <div>
   <div align="center">
-estudante de engenharia de software · porto alegre
+𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙴𝚗𝚐. 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝟷/𝟾 · 𝙿𝚘𝚛𝚝𝚘 𝙰𝚕𝚎𝚐𝚛𝚎
 </div> 
 
   
 ---
 
-## 🖤 Sobre mim !
+## 🖤 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 !
 
 - cresci preferindo jogar a brincar. quis ser pilota de F1,
 veterinária, e mais algumas coisas — no fim, a TI ganhou.
@@ -32,9 +32,8 @@ que provam isso.
 
 ---
 
-## 🖤 Habilidades
+## 🖤 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 !
 
-#### desenvolvimento
 - **hard skills** — Engenharia de Requisitos · Metodologias Ágeis (Scrum/Kanban) · Modelagem de Dados · Arquitetura de Computadores e SO · Fundamentos de IoT
 - **soft skills** — Proativa · Organizada · Aprendizado ativo · Resolução de Problemas
 
