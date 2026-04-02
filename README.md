@@ -1,90 +1,100 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+```
+╔═══════════════════════════════════════════╗
+║   　　　　🍀  lucky to be here  🍀　　　　║
+╚═══════════════════════════════════════════╝
+```
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=134&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFFFF&strokeWidth=2&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+<img src="./_𝐈𝐜𝐨𝐧𝐬.jpg" width="160" style="border-radius: 50%; border: 3px solid #4ade80;" />
+
+# ✦ hey, i'm **[seu nome]** ✦
+
+> *"luck favors the bold — and those who actually commit their code"*
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=developer+%F0%9F%8D%80;always+learning+%E2%9C%A8;chaotic+good+coder+%F0%9F%8E%B2)
+
 </div>
 
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+
+## 🍀 about me
+
 </div>
 
-###
+```js
+const me = {
+  pronouns:    "she/her",          // ← mude se quiser
+  based:       "Brazil 🇧🇷",
+  passion:     ["code", "anime", "good vibes"],
+  currentlyLearning: "always something new ✨",
+  funFact:     "I collect four-leaf clovers and bugs... in my code",
+};
+```
 
-<br clear="both">
-
-<p align="left"></p>
-
-###
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahwritescode/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/mahwritescode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
+
+## ⚡ tech stack
+
 </div>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=134&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahwritescode&locale=pt-br&mode=weekly&theme=cobalt&hide_border=false&border_radius=24&date_format=M%20j%5B,%20Y%5D&order=3" height="27" alt="streak graph"  />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=4ade80)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=4ade80)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=4ade80)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=4ade80)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=4ade80)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=4ade80)
+
 </div>
 
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahwritescode/mahwritescode/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahwritescode/mahwritescode/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahwritescode/mahwritescode/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+---
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/2sk4uqmsbyggil1a903ol2ehi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/2sk4uqmsbyggil1a903ol2ehi&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+
+## 📊 github stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&title_color=4ade80&text_color=ffffff&icon_color=4ade80&border_color=4ade80&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&title_color=4ade80&text_color=ffffff&border_color=4ade80&border_radius=12" />
+
 </div>
 
-###
+---
+
+<div align="center">
+
+## 🎯 currently
+
+```
+🔨  building something cool
+📚  studying  _______________
+🎮  playing   _______________
+🎵  listening to something chaotic
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🍀 find me
+
+[![Twitter](https://img.shields.io/badge/twitter-111111?style=for-the-badge&logo=x&logoColor=4ade80)](https://twitter.com/SEU_TWITTER)
+[![Discord](https://img.shields.io/badge/discord-111111?style=for-the-badge&logo=discord&logoColor=4ade80)](https://discord.com/users/SEU_ID)
+[![Instagram](https://img.shields.io/badge/instagram-111111?style=for-the-badge&logo=instagram&logoColor=4ade80)](https://instagram.com/SEU_INSTA)
+
+<br/>
+
+```
+🍀  thanks for stopping by  🍀
+```
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
