@@ -14,7 +14,7 @@
 
 ---
 
-## 🖤 sobre mim
+## 🖤 Sobre mim !
 
 - **nome** — duda
 - **curso** — Tecnologia da Informação
@@ -26,14 +26,14 @@
 
 ---
 
-## 🔧 habilidades
+## Habilidades
 
 #### desenvolvimento
-- **aprendendo** — *Python · JavaScript · HTML & CSS*
-- **explorando** — *Linux · redes · segurança da informação*
+- **hard skills** — Engenharia de Requisitos · Metodologias Ágeis (Scrum/Kanban) · Modelagem de Dados · Arquitetura de Computadores e SO · Fundamentos de IoT
+- **soft skills** — Proativa · Organizada · Aprendizado ativo · Resolução de Problemas
 
 #### ferramentas
-- Git · VS Code · TryHackMe
+- Git · GitHub · VS Code · Windows Terminal (CMD/PowerShell) · Linux (Básico)
 
 </div>
 
