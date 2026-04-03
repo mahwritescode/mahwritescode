@@ -6,7 +6,7 @@
  <a href="https://discord.com/users/1489342496130732292">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="16" alt="discord logo" />
 </a>
-<a href="https://tryhackme.com/p//mahwritescode">
+<a href="https://tryhackme.com/p/mahwritescode">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="16" alt="tryhackme logo" />
 </a>
 <a href="https://instagram.com/SEU_INSTA">
