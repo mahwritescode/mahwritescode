@@ -10,16 +10,16 @@
 
 <div align="center">
  <a href="https://discord.com/users/1489342496130732292">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </a>
 <a href="https://tryhackme.com/p/mahwritescode">
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="tryhackme logo" />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo" />
 </a>
 <a href="https://instagram.com/SEU_INSTA">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
 <a href="https://linkedin.com/in/mahwritescode">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7574f2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
 </div>
