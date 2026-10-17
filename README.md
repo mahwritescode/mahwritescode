@@ -28,7 +28,7 @@
 
 <div>
   <div align="center">
-Estudante de Ciência da Computação | UFRGS 1/8· 𝙿𝚘𝚛𝚝𝚘 𝙰𝚕𝚎𝚐𝚛𝚎
+Estudante de Ciência da Computação | UFRGS 1/8 · 𝙿𝚘𝚛𝚝𝚘 𝙰𝚕𝚎𝚐𝚛𝚎
 </div> 
 
   
