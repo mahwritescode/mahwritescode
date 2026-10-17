@@ -28,7 +28,7 @@
 
 <div>
   <div align="center">
-𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙴𝚗𝚐. 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝟷/𝟾 · 𝙿𝚘𝚛𝚝𝚘 𝙰𝚕𝚎𝚐𝚛𝚎
+Estudante de Ciência da Computação | UFRGS 1/8· 𝙿𝚘𝚛𝚝𝚘 𝙰𝚕𝚎𝚐𝚛𝚎
 </div> 
 
   
